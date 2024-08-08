@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Programming for BioMedical Data Fall 2024"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+        
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+

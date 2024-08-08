@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction to Python for Data Analysis",
+    "section": "",
+    "text": "Date: February 8-9 2024\nTime: 9:00 am – 4:00 pm MDT\nLocation: HELIX Rm - GS155 - Alder\nInstructors: Rebecca Barter, Alec Chapman\nRegistration: Use the following link to sign up for this workshop."
+  },
+  {
+    "objectID": "index.html#general-information",
+    "href": "index.html#general-information",
+    "title": "Introduction to Python for Data Analysis",
+    "section": "General Information",
+    "text": "General Information\nWhat: This workshop will introduce the basics of the Python programming language for data science, with a focus on working with tabular data using the Pandas library.\nWho: The course is aimed at graduate students, postdocs, faculty, and other researchers across campus who are interested in learning how to use Python for basic data analysis. You don’t need to have coding experience or any previous knowledge of Python to attend this workshop.\nWhere: HELIX Rm - GS155 - Alder\nWhen: February 8-9 2024\nRequirements: Participants must bring a laptop on which they can access the internet via a web browser. We will be using Google colab notebooks throughout this workshop.\nContact: Please email penny.atkins@hsc.utah.edu or rebecca.barter@hsc.utah.edu for more information."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Introduction to Python for Data Analysis",
+    "section": "Schedule",
+    "text": "Schedule\n\nDay 1\n\n\n\nTime\nTopic\n\n\n\n\n9:00 am\nIntroduction and Setup\n\n\n9:30 am\nVariables\n\n\n10:00 am\nTypes\n\n\n10:30 am\nMorning Break\n\n\n11:00 am\nType conversions\n\n\n11:30 am\nBoolean operations\n\n\n12:00 pm\nLunch\n\n\n1:00 pm\nThe numpy library\n\n\n1:45 pm\nThe pandas library\n\n\n2:15 pm\nDataFrame attributes and methods\n\n\n2:30 pm\nAfternoon Break\n\n\n3:00 pm\nData frame indexes\n\n\n3:30 pm\nPandas series\n\n\n4:00 pm\nEnd\n\n\n\n\n\nDay 2\n\n\n\nTime\nTopic\n\n\n\n\n9:00 am\nSubsetting with [] and .loc\n\n\n9:45 am\nFiltering rows using logical conditioning\n\n\n10:00 am\nFiltering rows using .query\n\n\n10:15 am\nPositional indexing with .iloc\n\n\n10:30 am\nMorning Break\n\n\n11:00 am\nAdding and dropping rows from DataFrames\n\n\n11:30 am\nComputing summaries of DataFrames\n\n\n12:00 pm\nLunch\n\n\n1:00 pm\nGrouped computations\n\n\n1:30 pm\nData visualization\n\n\n2:30 pm\nAfternoon Break\n\n\n3:00 pm\nLists and iteration\n\n\n4:00 pm\nEnd"
+  }
+]

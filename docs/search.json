@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "COMP 9690 - 090 Programming for BioMedical Data",
+    "section": "",
+    "text": "Semester: Fall 2024\nTime: Self-Paced\nLocation: Online\nInstructor: Rebecca Barter (rebecca.barter@hsc.utah.edu)\nFaculty Coordinator: Jeff Phillips (jeff.m.phillips@utah.edu)"
+  },
+  {
+    "objectID": "index.html#general-information",
+    "href": "index.html#general-information",
+    "title": "COMP 9690 - 090 Programming for BioMedical Data",
+    "section": "General Information",
+    "text": "General Information\nThis course will provide an introduction to programming in R with topics and pace designed for biomedical students interested in data science. Prior programming experience is not required. Students will learn how to write code for handling data, focusing on dataframe representations. Using these common representations, students will learn to prepare data for analysis starting from various formats, visualize its contents, and perform basic analysis to evaluate the data veracity. This course is structured as a series of stackable short-courses, where students need to select and complete 4 short courses in the semester to fulfill requirements for this credit-earning course.\nThis course is 100% self-paced and online"
+  },
+  {
+    "objectID": "index.html#courses",
+    "href": "index.html#courses",
+    "title": "COMP 9690 - 090 Programming for BioMedical Data",
+    "section": "Courses",
+    "text": "Courses\nThe 4 short courses that you need to complete are:\n\n\n\n\n\n\n1. Introduction to R for Data Analysis\n\n\n\nLength: 5.5 hours of pre-recorded letures, 3 projects\nDue date: September 12\nDescription: This course introduces the R programming language and is designed for beginners who are new to R and coding. Specific topics covered include using RStudio and writing documents with quarto along with basic coding principles, defining variables, vectors, and data frames, pipes, data manipulation with dplyr, and data visualization with ggplot2.\nCourse Learning Objectives:\n\nPerform operations with character, numeric, logical, and Boolean type objects in R\nUse the dplyr library functions select, mutate, filter, summarize, and group_by to manipulate, and summarize tabular data\nUse the ggplot2 library to create customizable data visualizations, including histograms, bar charts, and scatterplots\n\n\n\n\n\n\n\n\n\n2. Advanced R for Data Analysis\n\n\n\nLength: 4 hours of pre-recorded letures, 4 projects\nDue date: October 9\nDescription: You’ve learned the basics of R and the tidyverse, and now you’re ready to conduct more sophisticated data manipulation and analysis. This course is designed to elevate your R programming expertise, building on the foundations laid in the Introduction to R for Data Analysis course. You’ll learn advanced techniques and powerful tools that will transform your data workflows and analytical capabilities, such as creating custom R functions to automate your data science pipeline, reducing code redundancy with map functions, refactoring column variables, joining multiple data frames, and reshaping data. This course utilizes the R programming language, and it is assumed that learners have taken our “Introduction to R for Data Analysis” course or have equivalent experience.\nCourse Learning Objectives:\n\nWrite your own custom R functions\nReduce redundancy in your code using iteration techniques with the purrr package\nRefactor column variables\nReshape your data frames\nJoin multiple data frames together \n\n\n\n\n\n\n\n\n\n3. Data Cleaning with R\n\n\n\nLength: 6 hours of pre-recorded lectures, 6 projects\nDue date: November 7\nDescription: Real-world data can never perfectly capture the real world, and it rarely arrives in a ready-for-analysis format. Before your data is ready for analysis, it is critical that it is formatted appropriately, and you have ensured that it is representing the reality it was originally designed to capture to the greatest extent possible. The process of molding a dataset into a format that satisfies these criteria is known as “data cleaning”. While it may seem like a boring process, data cleaning is arguably the most important stage of the entire data science life cycle, since it ensures that you have a clear understanding of how real-world information is represented in your data as well as its limitations. Since every dataset is “messy” in its own way, the process of data cleaning will be unique to every dataset. This course introduces a series of steps that can be used to help you to understand your data and create a custom data cleaning procedure for any dataset, with a focus on biomedical data, such as electronic health records and health survey data. Specific topics covered include identifying and addressing missing values, handling data quality issues, such as invalid and inconsistent values, reshaping data into a “tidy” format, and creating a custom function in R that provides a reproducible and modifiable data cleaning pipeline for your project. This course utilizes the R programming language, and it is assumed that learners have taken our “Introduction to R for Data Analysis” course, or equivalent. It is recommended that students have also taken our “Advanced R for Data Analysis” course, but this is not a requirement.\nCourse Learning Objectives:\n\nData collection procedure and data dictionaries\nLoading and pre-formatting data in R\nIdentifying and handling missing values\nIdentifying and handling invalid and inconsistent values\nConverting data to a tidy data format\nCreating and implementing a reproducible data cleaning pipeline\n\n\n\n\n\n\n\n\n\n4. Statistics with R\n\n\n\nLength: TBD\nDue date: December 6\nDescription: TBD\nCourse Learning Objectives: TBD"
+  },
+  {
+    "objectID": "index.html#instructions",
+    "href": "index.html#instructions",
+    "title": "COMP 9690 - 090 Programming for BioMedical Data",
+    "section": "Instructions",
+    "text": "Instructions\nYou should complete these courses sequentially, starting with Introduction to R for Data Analysis, and ending with Statistics with R.\nYou should complete each course by the due date listed above. Each course has several graded projects that must be completed to complete the course.\nIf you finish a course early, you are welcome to start the next course (you do not need to wait until after the previous course’s due date)."
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "COMP 9690 - 090 Programming for BioMedical Data",
+    "section": "Grading",
+    "text": "Grading\nFinal exam: There is no final exam for this course.\nLate policy: If you do not complete a course by its due date (see above) ????????"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "COMP 9690 - 090 Programming for BioMedical Data",
+    "section": "Contact",
+    "text": "Contact\nPlease email Jeff Phillips (jeff.m.phillips@utah.edu) and Rebecca Barter (rebecca.barter@hsc.utah.edu) with any questions or for more information."
+  }
+]
