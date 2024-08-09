@@ -1,5 +1,5 @@
 ---
-title: "COMP 9690 - 090 Programming for BioMedical Data"
+title: "COMP 6960 - 090 Programming for BioMedical Data"
 subtitle: "University of Utah"
 ---
 
@@ -23,9 +23,17 @@ This course will provide an introduction to programming in R with topics and pac
 
 **This course is 100% self-paced and online**
 
-## Courses
+## Short courses
 
-The 4 short courses that you need to complete are:
+
+
+This is a composite course consisting of the four self-paced online short courses, listed below. 
+
+**You should complete all four of these courses *sequentially*, starting with *Introduction to R for Data Analysis*, and ending with *Statistics with R*.**
+
+If you finish a course early, you are welcome to start the next course (you do not need to wait until after the previous course's due date). 
+
+
 
 ::: {.callout-note icon=false}
 
@@ -40,9 +48,7 @@ The 4 short courses that you need to complete are:
 **Course Learning Objectives**:
 
 * Perform operations with character, numeric, logical, and Boolean type objects in R
-
 * Use the dplyr library functions select, mutate, filter, summarize, and group_by to manipulate, and summarize tabular data
-
 * Use the ggplot2 library to create customizable data visualizations, including histograms, bar charts, and scatterplots
 
 :::
@@ -62,13 +68,9 @@ The 4 short courses that you need to complete are:
 **Course Learning Objectives**:
 
 * Write your own custom R functions
-
 * Reduce redundancy in your code using iteration techniques with the purrr package
-
 * Refactor column variables
-
 * Reshape your data frames
-
 * Join multiple data frames together 
 
 :::
@@ -86,15 +88,10 @@ The 4 short courses that you need to complete are:
 **Course Learning Objectives**: 
 
 * Data collection procedure and data dictionaries
-
 * Loading and pre-formatting data in R
-
 * Identifying and handling missing values
-
 * Identifying and handling invalid and inconsistent values
-
 * Converting data to a tidy data format
-
 * Creating and implementing a reproducible data cleaning pipeline
 
 :::
@@ -114,22 +111,27 @@ The 4 short courses that you need to complete are:
 
 :::
 
-## Instructions
-
-You should complete these courses **sequentially**, starting with *Introduction to R for Data Analysis*, and ending with *Statistics with R*. 
-
-You should complete each course by the due date listed above. Each course has several graded projects that must be completed to complete the course.
-
-If you finish a course early, you are welcome to start the next course (you do not need to wait until after the previous course's due date). 
-
 
 ## Grading
 
+**Grade**: Each short course contains of a number of projects that are each graded out of 4 points. For any given project, a score of:
+
+* 1 point: you did not correctly complete the majority of the required tasks
+* 2 points: you correctly completed the majority, but not all of, the required tasks
+* 3 points: you correctly completed all of the required tasks.
+* 4 points: you correctly completed all of the required tasks AND your code and figures were tidy and polished, where relevant.
+
+Your grade for each *short course* will be based on the average of your individual project scores.
+
+Your grade for the *entire composite course* will be correspond to the average score you receive across the four short courses. 
+
+
+
+**Late policy**: If you do not complete a short-course by its due date (see above), you will lose 2% of your grade from that short-course per day, unless instructor permission is granted. 
+
+
 **Final exam**: There is **no** final exam for this course. 
-
-**Late policy**: If you do not complete a course by its due date (see above) ????????
-
 
 ## Contact
 
-Please email Jeff Phillips (jeff.m.phillips@utah.edu) and Rebecca Barter (rebecca.barter@hsc.utah.edu) with any questions or for more information.
+Please email Jeff Phillips (jeff.m.phillips@utah.edu) and Rebecca Barter (rebecca.barter@hsc.utah.edu) with questions or for more information.

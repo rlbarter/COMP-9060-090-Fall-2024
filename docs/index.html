@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Programming for BioMedical Data Fall 2024 - COMP 9690 - 090 Programming for BioMedical Data</title>
+<title>Programming for BioMedical Data Fall 2024 - COMP 6960 - 090 Programming for BioMedical Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -109,8 +109,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#general-information" id="toc-general-information" class="nav-link active" data-scroll-target="#general-information">General Information</a></li>
-  <li><a href="#courses" id="toc-courses" class="nav-link" data-scroll-target="#courses">Courses</a></li>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
+  <li><a href="#short-courses" id="toc-short-courses" class="nav-link" data-scroll-target="#short-courses">Short courses</a></li>
   <li><a href="#grading" id="toc-grading" class="nav-link" data-scroll-target="#grading">Grading</a></li>
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
@@ -121,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">COMP 9690 - 090 Programming for BioMedical Data</h1>
+<h1 class="title">COMP 6960 - 090 Programming for BioMedical Data</h1>
 <p class="subtitle lead">University of Utah</p>
 </div>
 
@@ -158,9 +157,11 @@ ul.task-list li input[type="checkbox"] {
 <p>This course will provide an introduction to programming in R with topics and pace designed for biomedical students interested in data science. Prior programming experience is not required. Students will learn how to write code for handling data, focusing on dataframe representations. Using these common representations, students will learn to prepare data for analysis starting from various formats, visualize its contents, and perform basic analysis to evaluate the data veracity. This course is structured as a series of stackable short-courses, where students need to select and complete 4 short courses in the semester to fulfill requirements for this credit-earning course.</p>
 <p><strong>This course is 100% self-paced and online</strong></p>
 </section>
-<section id="courses" class="level2">
-<h2 class="anchored" data-anchor-id="courses">Courses</h2>
-<p>The 4 short courses that you need to complete are:</p>
+<section id="short-courses" class="level2">
+<h2 class="anchored" data-anchor-id="short-courses">Short courses</h2>
+<p>This is a composite course consisting of the four self-paced online short courses, listed below.</p>
+<p><strong>You should complete all four of these courses <em>sequentially</em>, starting with <em>Introduction to R for Data Analysis</em>, and ending with <em>Statistics with R</em>.</strong></p>
+<p>If you finish a course early, you are welcome to start the next course (you do not need to wait until after the previous course’s due date).</p>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -176,9 +177,9 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Description</strong>: This course introduces the R programming language and is designed for beginners who are new to R and coding. Specific topics covered include using RStudio and writing documents with quarto along with basic coding principles, defining variables, vectors, and data frames, pipes, data manipulation with dplyr, and data visualization with ggplot2.</p>
 <p><strong>Course Learning Objectives</strong>:</p>
 <ul>
-<li><p>Perform operations with character, numeric, logical, and Boolean type objects in R</p></li>
-<li><p>Use the dplyr library functions select, mutate, filter, summarize, and group_by to manipulate, and summarize tabular data</p></li>
-<li><p>Use the ggplot2 library to create customizable data visualizations, including histograms, bar charts, and scatterplots</p></li>
+<li>Perform operations with character, numeric, logical, and Boolean type objects in R</li>
+<li>Use the dplyr library functions select, mutate, filter, summarize, and group_by to manipulate, and summarize tabular data</li>
+<li>Use the ggplot2 library to create customizable data visualizations, including histograms, bar charts, and scatterplots</li>
 </ul>
 </div>
 </div>
@@ -197,11 +198,11 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Description</strong>: You’ve learned the basics of R and the tidyverse, and now you’re ready to conduct more sophisticated data manipulation and analysis. This course is designed to elevate your R programming expertise, building on the foundations laid in the Introduction to R for Data Analysis course. You’ll learn advanced techniques and powerful tools that will transform your data workflows and analytical capabilities, such as creating custom R functions to automate your data science pipeline, reducing code redundancy with map functions, refactoring column variables, joining multiple data frames, and reshaping data. This course utilizes the R programming language, and it is assumed that learners have taken our “Introduction to R for Data Analysis” course or have equivalent experience.</p>
 <p><strong>Course Learning Objectives</strong>:</p>
 <ul>
-<li><p>Write your own custom R functions</p></li>
-<li><p>Reduce redundancy in your code using iteration techniques with the purrr package</p></li>
-<li><p>Refactor column variables</p></li>
-<li><p>Reshape your data frames</p></li>
-<li><p>Join multiple data frames together </p></li>
+<li>Write your own custom R functions</li>
+<li>Reduce redundancy in your code using iteration techniques with the purrr package</li>
+<li>Refactor column variables</li>
+<li>Reshape your data frames</li>
+<li>Join multiple data frames together </li>
 </ul>
 </div>
 </div>
@@ -220,12 +221,12 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Description</strong>: Real-world data can never perfectly capture the real world, and it rarely arrives in a ready-for-analysis format. Before your data is ready for analysis, it is critical that it is formatted appropriately, and you have ensured that it is representing the reality it was originally designed to capture to the greatest extent possible. The process of molding a dataset into a format that satisfies these criteria is known as “data cleaning”. While it may seem like a boring process, data cleaning is arguably the most important stage of the entire data science life cycle, since it ensures that you have a clear understanding of how real-world information is represented in your data as well as its limitations. Since every dataset is “messy” in its own way, the process of data cleaning will be unique to every dataset. This course introduces a series of steps that can be used to help you to understand your data and create a custom data cleaning procedure for any dataset, with a focus on biomedical data, such as electronic health records and health survey data. Specific topics covered include identifying and addressing missing values, handling data quality issues, such as invalid and inconsistent values, reshaping data into a “tidy” format, and creating a custom function in R that provides a reproducible and modifiable data cleaning pipeline for your project. This course utilizes the R programming language, and it is assumed that learners have taken our “Introduction to R for Data Analysis” course, or equivalent. It is recommended that students have also taken our “Advanced R for Data Analysis” course, but this is not a requirement.</p>
 <p><strong>Course Learning Objectives</strong>:</p>
 <ul>
-<li><p>Data collection procedure and data dictionaries</p></li>
-<li><p>Loading and pre-formatting data in R</p></li>
-<li><p>Identifying and handling missing values</p></li>
-<li><p>Identifying and handling invalid and inconsistent values</p></li>
-<li><p>Converting data to a tidy data format</p></li>
-<li><p>Creating and implementing a reproducible data cleaning pipeline</p></li>
+<li>Data collection procedure and data dictionaries</li>
+<li>Loading and pre-formatting data in R</li>
+<li>Identifying and handling missing values</li>
+<li>Identifying and handling invalid and inconsistent values</li>
+<li>Converting data to a tidy data format</li>
+<li>Creating and implementing a reproducible data cleaning pipeline</li>
 </ul>
 </div>
 </div>
@@ -246,20 +247,23 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </section>
-<section id="instructions" class="level2">
-<h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>You should complete these courses <strong>sequentially</strong>, starting with <em>Introduction to R for Data Analysis</em>, and ending with <em>Statistics with R</em>.</p>
-<p>You should complete each course by the due date listed above. Each course has several graded projects that must be completed to complete the course.</p>
-<p>If you finish a course early, you are welcome to start the next course (you do not need to wait until after the previous course’s due date).</p>
-</section>
 <section id="grading" class="level2">
 <h2 class="anchored" data-anchor-id="grading">Grading</h2>
+<p><strong>Grade</strong>: Each short course contains of a number of projects that are each graded out of 4 points. For any given project, a score of:</p>
+<ul>
+<li>1 point: you did not correctly complete the majority of the required tasks</li>
+<li>2 points: you correctly completed the majority, but not all of, the required tasks</li>
+<li>3 points: you correctly completed all of the required tasks.</li>
+<li>4 points: you correctly completed all of the required tasks AND your code and figures were tidy and polished, where relevant.</li>
+</ul>
+<p>Your grade for each <em>short course</em> will be based on the average of your individual project scores.</p>
+<p>Your grade for the <em>entire composite course</em> will be correspond to the average score you receive across the four short courses.</p>
+<p><strong>Late policy</strong>: If you do not complete a short-course by its due date (see above), you will lose 2% of your grade from that short-course per day, unless instructor permission is granted.</p>
 <p><strong>Final exam</strong>: There is <strong>no</strong> final exam for this course.</p>
-<p><strong>Late policy</strong>: If you do not complete a course by its due date (see above) ????????</p>
 </section>
 <section id="contact" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<p>Please email Jeff Phillips (jeff.m.phillips@utah.edu) and Rebecca Barter (rebecca.barter@hsc.utah.edu) with any questions or for more information.</p>
+<p>Please email Jeff Phillips (jeff.m.phillips@utah.edu) and Rebecca Barter (rebecca.barter@hsc.utah.edu) with questions or for more information.</p>
 
 
 </section>

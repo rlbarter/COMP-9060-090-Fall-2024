@@ -1,6 +1,5 @@
 /* css styles */
 
-.callout-note h1 {
-    font-size: 5em; /* Adjust the size as needed */
-    callout-border-scale: 150; /* Adjust the size as needed */
+.callout-title-container {
+    font-size: 1.5em; /* Adjust the size as needed */
 }
